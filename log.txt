@@ -1,0 +1,278 @@
+INFO:Number of emails in directory = 1
+INFO:sample_email.msg
+INFO:Processing email #1 out of 1
+INFO:Coverage: 3 articles
+
+DEBUG:('"MsoListParagraph"', ' style="margin-left:0cm;mso-list:l2 level1 lfo3"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">New Arrival: Dell G Series Gaming Computers – Tech4tea (<a href="http://tech4tea.com/blog/2020/06/26/new-arrival-dell-g-series-gaming-computers-monitors-keyboards/">Online</a>,\r\n<a href="https://business.facebook.com/gotech4tea/posts/4598490146843826">Facebook</a> &amp;\r\n<a href="https://www.linkedin.com/posts/tech4tea-website_new-arrival-dell-g-series-gaming-computers-activity-6682511823100542976-ZfP7">\r\nLinkedIn</a>) <o:p></o:p></span></b>')
+DEBUG:Checking for Tech4tea against bbc.com/news/world/asia
+DEBUG:Checking for Tech4tea against bloomberg.com/live/asia 
+DEBUG:Checking for Tech4tea against businesstimes.com.sg
+DEBUG:Checking for Tech4tea against channelnewsasia.com
+DEBUG:Checking for Tech4tea against cnbc.com/asia-news
+DEBUG:Checking for Tech4tea against cnet.com
+DEBUG:Checking for Tech4tea against hardwarezone.com.sg
+DEBUG:Checking for Tech4tea against computerweekly.com
+DEBUG:Checking for 'Tech4tea' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'Tech4tea' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'Tech4tea' in businesstimes.com.sg . . .
+DEBUG:Checking for 'Tech4tea' in channelnewsasia.com . . .
+DEBUG:Checking for 'Tech4tea' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'Tech4tea' in cnet.com . . .
+DEBUG:Checking for 'Tech4tea' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'Tech4tea' in computerweekly.com . . .
+DEBUG:Checking for 'Techtea' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'Techtea' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'Techtea' in businesstimes.com.sg . . .
+DEBUG:Checking for 'Techtea' in channelnewsasia.com . . .
+DEBUG:Checking for 'Techtea' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'Techtea' in cnet.com . . .
+DEBUG:Checking for 'Techtea' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'Techtea' in computerweekly.com . . .
+WARNING:Tier/Type not found
+DEBUG:Title - New Arrival: Dell G Series Gaming Computers
+DEBUG:Pub - Tech4tea
+DEBUG:Platform - ['Online', 'Facebook', '\\r\\nLinkedIn']
+DEBUG:Link - ['http://tech4tea.com/blog/2020/06/26/new-arrival-dell-g-series-gaming-computers-monitors-keyboards/', 'https://business.facebook.com/gotech4tea/posts/4598490146843826', 'https://www.linkedin.com/posts/tech4tea-website_new-arrival-dell-g-series-gaming-computers-activity-6682511823100542976-ZfP7']
+DEBUG:Tier - N/A
+DEBUG:Category - N/A
+DEBUG:Date - 01/01/21
+
+INFO:Number of emails in directory = 1
+INFO:sample_email.msg
+INFO:Number of emails in directory = 1
+INFO:sample_email.msg
+INFO:Number of emails in directory = 1
+INFO:sample_email.msg
+INFO:Processing email #1 out of 1
+INFO:Coverage: 3 articles
+
+DEBUG:('"MsoListParagraph"', ' style="margin-left:0cm;mso-list:l2 level1 lfo3"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">New Arrival: Dell G Series Gaming Computers – Tech4tea (<a href="http://tech4tea.com/blog/2020/06/26/new-arrival-dell-g-series-gaming-computers-monitors-keyboards/">Online</a>,\r\n<a href="https://business.facebook.com/gotech4tea/posts/4598490146843826">Facebook</a> &amp;\r\n<a href="https://www.linkedin.com/posts/tech4tea-website_new-arrival-dell-g-series-gaming-computers-activity-6682511823100542976-ZfP7">\r\nLinkedIn</a>) <o:p></o:p></span></b>')
+DEBUG:Checking for Tech4tea against bbc.com/news/world/asia
+DEBUG:Checking for Tech4tea against bloomberg.com/live/asia 
+DEBUG:Checking for Tech4tea against businesstimes.com.sg
+DEBUG:Checking for Tech4tea against channelnewsasia.com
+DEBUG:Checking for Tech4tea against cnbc.com/asia-news
+DEBUG:Checking for Tech4tea against cnet.com
+DEBUG:Checking for Tech4tea against hardwarezone.com.sg
+DEBUG:Checking for Tech4tea against computerweekly.com
+DEBUG:Checking for 'Tech4tea' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'Tech4tea' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'Tech4tea' in businesstimes.com.sg . . .
+DEBUG:Checking for 'Tech4tea' in channelnewsasia.com . . .
+DEBUG:Checking for 'Tech4tea' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'Tech4tea' in cnet.com . . .
+DEBUG:Checking for 'Tech4tea' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'Tech4tea' in computerweekly.com . . .
+DEBUG:Checking for 'Techtea' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'Techtea' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'Techtea' in businesstimes.com.sg . . .
+DEBUG:Checking for 'Techtea' in channelnewsasia.com . . .
+DEBUG:Checking for 'Techtea' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'Techtea' in cnet.com . . .
+DEBUG:Checking for 'Techtea' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'Techtea' in computerweekly.com . . .
+WARNING:Tier/Type not found
+DEBUG:Title - New Arrival: Dell G Series Gaming Computers
+DEBUG:Pub - Tech4tea
+DEBUG:Platform - ['Online', 'Facebook', '\\r\\nLinkedIn']
+DEBUG:Link - ['http://tech4tea.com/blog/2020/06/26/new-arrival-dell-g-series-gaming-computers-monitors-keyboards/', 'https://business.facebook.com/gotech4tea/posts/4598490146843826', 'https://www.linkedin.com/posts/tech4tea-website_new-arrival-dell-g-series-gaming-computers-activity-6682511823100542976-ZfP7']
+DEBUG:Tier - N/A
+DEBUG:Category - N/A
+DEBUG:Date - 01/01/21
+
+INFO:Number of emails in directory = 1
+INFO:sample_email.msg
+INFO:Processing email #1 out of 1
+INFO:Coverage: 3 articles
+
+DEBUG:('"MsoListParagraph"', ' style="margin-left:0cm;mso-list:l2 level1 lfo3"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">New Arrival: Dell G Series Gaming Computers – Tech4tea (<a href="http://tech4tea.com/blog/2020/06/26/new-arrival-dell-g-series-gaming-computers-monitors-keyboards/">Online</a>,\r\n<a href="https://business.facebook.com/gotech4tea/posts/4598490146843826">Facebook</a> &amp;\r\n<a href="https://www.linkedin.com/posts/tech4tea-website_new-arrival-dell-g-series-gaming-computers-activity-6682511823100542976-ZfP7">\r\nLinkedIn</a>) <o:p></o:p></span></b>')
+DEBUG:Checking for Tech4tea against bbc.com/news/world/asia
+DEBUG:Checking for Tech4tea against bloomberg.com/live/asia 
+DEBUG:Checking for Tech4tea against businesstimes.com.sg
+DEBUG:Checking for Tech4tea against channelnewsasia.com
+DEBUG:Checking for Tech4tea against cnbc.com/asia-news
+DEBUG:Checking for Tech4tea against cnet.com
+DEBUG:Checking for Tech4tea against hardwarezone.com.sg
+DEBUG:Checking for Tech4tea against computerweekly.com
+DEBUG:Checking for 'Tech4tea' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'Tech4tea' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'Tech4tea' in businesstimes.com.sg . . .
+DEBUG:Checking for 'Tech4tea' in channelnewsasia.com . . .
+DEBUG:Checking for 'Tech4tea' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'Tech4tea' in cnet.com . . .
+DEBUG:Checking for 'Tech4tea' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'Tech4tea' in computerweekly.com . . .
+DEBUG:Checking for 'Techtea' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'Techtea' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'Techtea' in businesstimes.com.sg . . .
+DEBUG:Checking for 'Techtea' in channelnewsasia.com . . .
+DEBUG:Checking for 'Techtea' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'Techtea' in cnet.com . . .
+DEBUG:Checking for 'Techtea' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'Techtea' in computerweekly.com . . .
+WARNING:Tier/Type not found
+DEBUG:Title - New Arrival: Dell G Series Gaming Computers
+DEBUG:Pub - Tech4tea
+DEBUG:Platform - ['Online', 'Facebook', '\\r\\nLinkedIn']
+DEBUG:Link - ['http://tech4tea.com/blog/2020/06/26/new-arrival-dell-g-series-gaming-computers-monitors-keyboards/', 'https://business.facebook.com/gotech4tea/posts/4598490146843826', 'https://www.linkedin.com/posts/tech4tea-website_new-arrival-dell-g-series-gaming-computers-activity-6682511823100542976-ZfP7']
+DEBUG:Tier - N/A
+DEBUG:Category - N/A
+DEBUG:Date - 01/01/21
+
+DEBUG:('"MsoListParagraph"', ' style="margin-left:0cm;mso-list:l2 level1 lfo3"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">Apple said to be researching keyboards with individual adaptive displays – HardwareZone Singapore (<a href="https://www.hardwarezone.com.sg/tech-news-apple-researching-keyboards-individual-adaptive-displays?">Online</a>,\r\n<a href="https://www.facebook.com/hardwarezone/posts/10164527850070371">Facebook</a> &amp;\r\n<a href="https://twitter.com/hardwarezone/status/1344124625811337216">Twitter</a>)\r\n<o:p></o:p></span></b>')
+DEBUG:Title - Apple said to be researching keyboards with individual adaptive displays
+DEBUG:Pub - HardwareZone Singapore
+DEBUG:Platform - ['Online', 'Facebook', 'Twitter']
+DEBUG:Link - ['https://www.hardwarezone.com.sg/tech-news-apple-researching-keyboards-individual-adaptive-displays?', 'https://www.facebook.com/hardwarezone/posts/10164527850070371', 'https://twitter.com/hardwarezone/status/1344124625811337216']
+DEBUG:Tier - 1
+DEBUG:Category - Trade
+DEBUG:Date - 01/01/21
+
+DEBUG:('"MsoListParagraph"', ' style="margin-left:0cm;mso-list:l2 level1 lfo3"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">Apple launches MacBook Air with first Apple-designed microprocessors – The Straits Times (<a href="https://www.straitstimes.com/tech/tech-news/apple-launches-macbook-air-with-first-apple-designed-microprocessors">Online</a>)<o:p></o:p></span></b>')
+DEBUG:Checking for TheStraitsTimes against bbc.com/news/world/asia
+DEBUG:Checking for TheStraitsTimes against bloomberg.com/live/asia 
+DEBUG:Checking for TheStraitsTimes against businesstimes.com.sg
+DEBUG:Checking for TheStraitsTimes against channelnewsasia.com
+DEBUG:Checking for TheStraitsTimes against cnbc.com/asia-news
+DEBUG:Checking for TheStraitsTimes against cnet.com
+DEBUG:Checking for TheStraitsTimes against hardwarezone.com.sg
+DEBUG:Checking for TheStraitsTimes against computerweekly.com
+DEBUG:Checking for 'The' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'The' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'The' in businesstimes.com.sg . . .
+DEBUG:Checking for 'The' in channelnewsasia.com . . .
+DEBUG:Checking for 'The' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'The' in cnet.com . . .
+DEBUG:Checking for 'The' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'The' in computerweekly.com . . .
+DEBUG:Checking for 'The' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'The' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'The' in businesstimes.com.sg . . .
+DEBUG:Checking for 'The' in channelnewsasia.com . . .
+DEBUG:Checking for 'The' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'The' in cnet.com . . .
+DEBUG:Checking for 'The' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'The' in computerweekly.com . . .
+WARNING:Tier/Type not found
+DEBUG:Title - Apple launches MacBook Air with first Apple-designed microprocessors
+DEBUG:Pub - The Straits Times
+DEBUG:Platform - ['Online']
+DEBUG:Link - ['https://www.straitstimes.com/tech/tech-news/apple-launches-macbook-air-with-first-apple-designed-microprocessors']
+DEBUG:Tier - N/A
+DEBUG:Category - N/A
+DEBUG:Date - 01/01/21
+
+INFO:Total coverage: 3
+INFO:Number of emails in directory = 7
+INFO:AI Shenanigans_ GPT-4_ Reddit Chuckles_ Tars Spotlight!.msg
+WARNING:No coverage found in AI Shenanigans_ GPT-4_ Reddit Chuckles_ Tars Spotlight!.msg
+INFO:Processing email #1 out of 7
+INFO:Coverage: 0 articles
+
+INFO:FW_ any Full Time_ W2_c2c positions today______.msg
+WARNING:No coverage found in FW_ any Full Time_ W2_c2c positions today______.msg
+INFO:Processing email #2 out of 7
+INFO:Coverage: 0 articles
+
+INFO:FW_ Dev_ we found this about DESSS Inc.msg
+WARNING:No coverage found in FW_ Dev_ we found this about DESSS Inc.msg
+INFO:Processing email #3 out of 7
+INFO:Coverage: 0 articles
+
+INFO:FW_ Resumes for Sr Java Developer and SDET with Java_ Appium_ Mobile testing.msg
+WARNING:No coverage found in FW_ Resumes for Sr Java Developer and SDET with Java_ Appium_ Mobile testing.msg
+INFO:Processing email #4 out of 7
+INFO:Coverage: 0 articles
+
+INFO:FW_ Urgent position of Peoplesoft FSCM Developer(Remote).msg
+WARNING:No coverage found in FW_ Urgent position of Peoplesoft FSCM Developer(Remote).msg
+INFO:Processing email #5 out of 7
+INFO:Coverage: 0 articles
+
+INFO:FW_ WP partner for Houston Web Design & Development Company.msg
+WARNING:No coverage found in FW_ WP partner for Houston Web Design & Development Company.msg
+INFO:Processing email #6 out of 7
+INFO:Coverage: 0 articles
+
+INFO:sample_email.msg
+INFO:Processing email #7 out of 7
+INFO:Coverage: 3 articles
+
+DEBUG:('"MsoListParagraph"', ' style="margin-left:0cm;mso-list:l2 level1 lfo3"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">New Arrival: Dell G Series Gaming Computers – Tech4tea (<a href="http://tech4tea.com/blog/2020/06/26/new-arrival-dell-g-series-gaming-computers-monitors-keyboards/">Online</a>,\r\n<a href="https://business.facebook.com/gotech4tea/posts/4598490146843826">Facebook</a> &amp;\r\n<a href="https://www.linkedin.com/posts/tech4tea-website_new-arrival-dell-g-series-gaming-computers-activity-6682511823100542976-ZfP7">\r\nLinkedIn</a>) <o:p></o:p></span></b>')
+DEBUG:Checking for Tech4tea against bbc.com/news/world/asia
+DEBUG:Checking for Tech4tea against bloomberg.com/live/asia 
+DEBUG:Checking for Tech4tea against businesstimes.com.sg
+DEBUG:Checking for Tech4tea against channelnewsasia.com
+DEBUG:Checking for Tech4tea against cnbc.com/asia-news
+DEBUG:Checking for Tech4tea against cnet.com
+DEBUG:Checking for Tech4tea against hardwarezone.com.sg
+DEBUG:Checking for Tech4tea against computerweekly.com
+DEBUG:Checking for 'Tech4tea' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'Tech4tea' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'Tech4tea' in businesstimes.com.sg . . .
+DEBUG:Checking for 'Tech4tea' in channelnewsasia.com . . .
+DEBUG:Checking for 'Tech4tea' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'Tech4tea' in cnet.com . . .
+DEBUG:Checking for 'Tech4tea' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'Tech4tea' in computerweekly.com . . .
+DEBUG:Checking for 'Techtea' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'Techtea' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'Techtea' in businesstimes.com.sg . . .
+DEBUG:Checking for 'Techtea' in channelnewsasia.com . . .
+DEBUG:Checking for 'Techtea' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'Techtea' in cnet.com . . .
+DEBUG:Checking for 'Techtea' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'Techtea' in computerweekly.com . . .
+WARNING:Tier/Type not found
+DEBUG:Title - New Arrival: Dell G Series Gaming Computers
+DEBUG:Pub - Tech4tea
+DEBUG:Platform - ['Online', 'Facebook', '\\r\\nLinkedIn']
+DEBUG:Link - ['http://tech4tea.com/blog/2020/06/26/new-arrival-dell-g-series-gaming-computers-monitors-keyboards/', 'https://business.facebook.com/gotech4tea/posts/4598490146843826', 'https://www.linkedin.com/posts/tech4tea-website_new-arrival-dell-g-series-gaming-computers-activity-6682511823100542976-ZfP7']
+DEBUG:Tier - N/A
+DEBUG:Category - N/A
+DEBUG:Date - 01/01/21
+
+DEBUG:('"MsoListParagraph"', ' style="margin-left:0cm;mso-list:l2 level1 lfo3"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">Apple said to be researching keyboards with individual adaptive displays – HardwareZone Singapore (<a href="https://www.hardwarezone.com.sg/tech-news-apple-researching-keyboards-individual-adaptive-displays?">Online</a>,\r\n<a href="https://www.facebook.com/hardwarezone/posts/10164527850070371">Facebook</a> &amp;\r\n<a href="https://twitter.com/hardwarezone/status/1344124625811337216">Twitter</a>)\r\n<o:p></o:p></span></b>')
+DEBUG:Title - Apple said to be researching keyboards with individual adaptive displays
+DEBUG:Pub - HardwareZone Singapore
+DEBUG:Platform - ['Online', 'Facebook', 'Twitter']
+DEBUG:Link - ['https://www.hardwarezone.com.sg/tech-news-apple-researching-keyboards-individual-adaptive-displays?', 'https://www.facebook.com/hardwarezone/posts/10164527850070371', 'https://twitter.com/hardwarezone/status/1344124625811337216']
+DEBUG:Tier - 1
+DEBUG:Category - Trade
+DEBUG:Date - 01/01/21
+
+DEBUG:('"MsoListParagraph"', ' style="margin-left:0cm;mso-list:l2 level1 lfo3"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">Apple launches MacBook Air with first Apple-designed microprocessors – The Straits Times (<a href="https://www.straitstimes.com/tech/tech-news/apple-launches-macbook-air-with-first-apple-designed-microprocessors">Online</a>)<o:p></o:p></span></b>')
+DEBUG:Checking for TheStraitsTimes against bbc.com/news/world/asia
+DEBUG:Checking for TheStraitsTimes against bloomberg.com/live/asia 
+DEBUG:Checking for TheStraitsTimes against businesstimes.com.sg
+DEBUG:Checking for TheStraitsTimes against channelnewsasia.com
+DEBUG:Checking for TheStraitsTimes against cnbc.com/asia-news
+DEBUG:Checking for TheStraitsTimes against cnet.com
+DEBUG:Checking for TheStraitsTimes against hardwarezone.com.sg
+DEBUG:Checking for TheStraitsTimes against computerweekly.com
+DEBUG:Checking for 'The' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'The' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'The' in businesstimes.com.sg . . .
+DEBUG:Checking for 'The' in channelnewsasia.com . . .
+DEBUG:Checking for 'The' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'The' in cnet.com . . .
+DEBUG:Checking for 'The' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'The' in computerweekly.com . . .
+DEBUG:Checking for 'The' in bbc.com/news/world/asia . . .
+DEBUG:Checking for 'The' in bloomberg.com/live/asia  . . .
+DEBUG:Checking for 'The' in businesstimes.com.sg . . .
+DEBUG:Checking for 'The' in channelnewsasia.com . . .
+DEBUG:Checking for 'The' in cnbc.com/asia-news . . .
+DEBUG:Checking for 'The' in cnet.com . . .
+DEBUG:Checking for 'The' in hardwarezone.com.sg . . .
+DEBUG:Checking for 'The' in computerweekly.com . . .
+WARNING:Tier/Type not found
+DEBUG:Title - Apple launches MacBook Air with first Apple-designed microprocessors
+DEBUG:Pub - The Straits Times
+DEBUG:Platform - ['Online']
+DEBUG:Link - ['https://www.straitstimes.com/tech/tech-news/apple-launches-macbook-air-with-first-apple-designed-microprocessors']
+DEBUG:Tier - N/A
+DEBUG:Category - N/A
+DEBUG:Date - 01/01/21
+
+INFO:Total coverage: 3

@@ -1,0 +1,59 @@
+Subject: FW: Urgent position of Logical Oracle Database Administrator
+Sender: dev@desss.com
+Received Time: 2023-06-15 10:14:56+00:00
+Body: From: Naresh Kumar <naresh@galaxyinfotechinc.com> 
+Sent: Wednesday, June 14, 2023 12:59 PM
+To: Naresh Kumar <naresh@galaxyinfotechinc.com>
+Subject: Urgent position of Logical Oracle Database Administrator
+Hello,
+I'm currently looking for applicants to fill one of my requirements, which are listed below.  If your profile fits, kindly give me the most recent version of your resume together with your contact information as soon as possible.
+Position:            Logical Database Administrator
+Location:           Remote
+Duration:           6+ months.
+Detailed JD
+Texas
+Any Visa.
+Minimum Requirements:
+Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.
+Years
+Required/
+Preferred
+Experience
+8
+Required
+Experience Implementing, administering, managing, and monitoring the assigned application databases in production & non-production environments. Ensure that data integrity and data security is maintained.
+8
+Preferred
+Experience working on or leading large, complex initiatives to design and implement performance tuning improvements and advise developers on tuning options. Experience using Explain Plan and determine best fit plan for performance improvement
+8
+Preferred
+Experience supporting cross functional development teams to identify data as well as the relationships and constraints on the data to help optimize application/query performance.
+8
+Preferred
+In-depth knowledge of Oracle internal views, built-in functions and architecture to support data analysis and data query and familiar with Tablespace consolidation, DBMS reorg, partition analysis and index analysis.
+8
+Preferred
+Proven ability to analyze and resolve complex issues both in development and production databases using Oracle 11/19c databases and work with cross functional teams.
+8
+Preferred
+Hands on experience monitoring/troubleshooting and fine-tuning SQL and PL/SQL on Oracle databases version on Solaris/Linux systems
+8
+Preferred
+Experience using Oracle native tool such as Oracle SQL Developer
+5
+Preferred
+Hands on experience using Erwin Modeling tool to create from scratch data models using data modeling techniques including star schema.
+5
+Preferred
+Experience developing tools using SQL, PL/SQL and Linux shell scripts to provide LDBA support for large numbers of test & development database environments and apply best practice to create DDL, DML SQL and shell scripts.
+5
+Preferred
+Hands-on experience with large development projects using Agile methodology
+Thanks & Regards
+Naresh Nagar | Sr. Technical Recruiter
+Mail: naresh@galaxyinfotechinc.com <mailto:naresh@galaxyinfotechinc.com>   
+Hangout: naresh@galaxyinfotechinc.com <mailto:naresh@galaxyinfotechinc.com>   
+Office: (571) 668-9063 – Ext: 108 & 347-518-5849
+Galaxy InfoTech Inc. | www.galaxyinfotechinc.com <http://www.galaxyinfotechinc.com/> 
+825 Colorado BLVD Suite 219, Los Angeles, CA 90041
+---
