@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Edit page</title>
+<!-- <style>
+.container {
+    margin-left: 550px;
+    margin-top: 150px;
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    background-color: aquamarine;
+}
+</style> -->
+</head>
+
+<body>
+    <h1>Edit</h1>
+    
+    <div class="container">
+        <table>
+            <tbody>
+                <form action="/polls/update/{{object.id}}" method="POST">
+                    {% csrf_token %}
+                    <tr>
+                        <td> Subject</td>
+                        <td><input type="text" name="Subject" value={{object.Subject}}></td>
+                    </tr>
+                    <tr>
+                        <td> Sender</td>
+                        <td><input type="text" name="Sender" value={{object.Sender}}></td>
+                    </tr>
+                    <tr>
+                        <td> Received_Time</td>
+                        <td><textarea type="text" name='Received_Time'>{{object.Received_Time}}</textarea></td>
+                    </tr>
+                    <tr>
+                        <td> Email_content</td>
+                        <td><textarea type="text" name='Email_content'>{{object.Email_content}}</textarea></td>
+                    </tr>
+                    <tr>
+                        <td><button>Submit</button></td>
+                    </tr>
+                </form>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>
